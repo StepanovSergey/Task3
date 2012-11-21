@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="products.xsd">
+	<product>
+		<producer>Samsung</producer>
+		<model>GS003</model>
+		<date-of-issue>02-09-2012</date-of-issue>
+		<color>White</color>
+		<price>600</price>
+	</product>
+	<product>
+		<producer>Apple</producer>
+		<model>IP005</model>
+		<date-of-issue>05-12-2012</date-of-issue>
+		<color>Black</color>
+		<not-in-stock />
+	</product>
+	<product>
+		<producer>Nokia</producer>
+		<model>WP920</model>
+		<date-of-issue>20-10-2012</date-of-issue>
+		<color>Red</color>
+		<price>900</price>
+	</product>
+	<product>
+		<producer>Huawei</producer>
+		<model>HU886</model>
+		<date-of-issue>20-05-2012</date-of-issue>
+		<color>White</color>
+		<not-in-stock />
+	</product>
+	<product>
+		<producer>Samsung</producer>
+		<model>GT007</model>
+		<date-of-issue>15-08-2012</date-of-issue>
+		<color>Silver</color>
+		<price>400</price>
+	</product>
+</products>
