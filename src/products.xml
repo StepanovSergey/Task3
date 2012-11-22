@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:noNamespaceSchemaLocation="products.xsd">
+<!-- <!DOCTYPE products SYSTEM "products.dtd"> -->
+<products xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.epam.com" xs:schemaLocation="http://www.epam.com products.xsd">
 	<product>
 		<producer>Samsung</producer>
 		<model>GS003</model>
