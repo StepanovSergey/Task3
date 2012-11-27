@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE products SYSTEM "products.dtd">
-<products> <!-- xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
-	xmlns="http://www.epam.com" xs:schemaLocation="http://www.epam.com products.xsd"> -->
+<!-- <!DOCTYPE products SYSTEM "../dtd/products.dtd"> -->
+<products xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.epam.com" xs:schemaLocation="http://www.epam.com ../xsd/products.xsd">
 	<category name="electronic">
 		<subcategory name="mobile">
 			<product>
